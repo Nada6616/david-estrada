@@ -10,7 +10,7 @@
 -[https://pngtree.com/so/hanging-flower]
 -[http://www3.canisius.edu/~grandem/butterflylifecycle/The_Lifecycle_of_a_Butterfly_print.html]
 
-[https://i.imgur.com/RbaXZYj.jpg]
+[https://i.imgur.com/RbaXZYj.jpg] 
 
 I didn’t really plan on having a significant meaning to my piece and instead played around with images and tools until I created something I like. My piece isn’t something to be taken too seriously but rather to have the viewer enjoy the piece for its aesthetics and keep the eyes engaged with the variety of objects and subjects in the piece.
 
