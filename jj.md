@@ -3,12 +3,12 @@
 1. Medium: Print on paer + AR overlay
 2. DImensions: 480 x 852
 3. Photos used: 
-..*[https://www.fiftyflowers.com/product/mini-sunflowers.htm]
-..*[https://www.wuwm.com/post/wisconsin-gray-wolf-debate-fires-again#stream/0]
-*[https://www.shutterstock.com/video/clip-2270666-ocean-view-new-york-city-harbor-back]
-*[https://en.wikipedia.org/wiki/Astronaut]
-*[https://pngtree.com/so/hanging-flower]
-*[http://www3.canisius.edu/~grandem/butterflylifecycle/The_Lifecycle_of_a_Butterfly_print.html]
+-[https://www.fiftyflowers.com/product/mini-sunflowers.htm]
+-[https://www.wuwm.com/post/wisconsin-gray-wolf-debate-fires-again#stream/0]
+-[https://www.shutterstock.com/video/clip-2270666-ocean-view-new-york-city-harbor-back]
+-[https://en.wikipedia.org/wiki/Astronaut]
+-[https://pngtree.com/so/hanging-flower]
+-[http://www3.canisius.edu/~grandem/butterflylifecycle/The_Lifecycle_of_a_Butterfly_print.html]
 
 [https://i.imgur.com/RbaXZYj.jpg] 
 
