@@ -1,14 +1,28 @@
+@import url('https://fonts.googleapis.com/css?family=Press+Start+2P');
+
 body {
-  margin: 30px auto;
-  max-width: 1000px;
-  font-family: "Helvetica", "Arial", sans-serif;
-  line-height: 1.5;
-  padding: 30px 20px;
+  font-family: 'Press Start 2P', cursive;
+
+  margin:5px;
+  padding:0;
 }
-body {
-  background-color:#17EFFA;
-  color:#fffff;
+#animation {
+  border: none;
+  position: fixed;
+  z-index:-999;
+  width:100%;
+  height:100%;
+
 }
-h1 {
-  padding: 20px 0px 10px 0px;
+#animation02 {
+  width:10%;
+  height:10%;
+}
+
+#Edward {
+  border: none;
+  position:fixed;
+  z-index: -999;
+  width: 100%;
+  height: 100%;
 }
