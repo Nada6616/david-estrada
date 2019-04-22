@@ -5,9 +5,10 @@ let carSpeed = 3
 let carAcc = .5
 let raceStarted = false;
 
+
 {
   function setup() {
-    createCanvas(500, 200);
+    createCanvas(1520, 300);
     console.log("uglycarX is" + uglycarX);
     vroom = new p5.Oscillator('square');
     vroom.stop();
@@ -25,10 +26,6 @@ let raceStarted = false;
     rect(2,height - 50, 50, 50);
   }
 
- {
-
-  }
-
 
   // check to see if mouse is pressed in box
   if (mouseIsPressed && mouseX >= 0 && mouseX <= 50 && mouseY <= height && mouseY >= height - 50) {
@@ -37,13 +34,15 @@ let raceStarted = false;
       vroom.amp(.05);
   }
 
+
+
   //different ways to allow the car to move
     //uglycarX += 3;
     //uglycarX = uglycarX + 3;
 
   //looping mechanics
   if (raceStarted == true) {
-    if (uglycarX >= 500) {
+    if (uglycarX >= 1520) {
         uglycarX = -50
         carSpeed = 3
     } else {
@@ -66,8 +65,11 @@ let raceStarted = false;
     ellipse(uglycarX + 50, 80, 20, 20);
 }
 
+
   function mousePressed() {
   vroom.stop();
   }
+
+
 
 }
