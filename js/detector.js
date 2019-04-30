@@ -56,4 +56,4 @@ var Detector = {
 
 	}
 
-}
+};
