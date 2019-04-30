@@ -21,6 +21,15 @@ body {
    left:300px;
 
  }
+
+ #animation2 {
+   position: fixed;
+   bottom: 5px;
+   right: -50px;
+   border:none;
+  
+
+ }
 .buttons{
   float: left;
   font-size:16pt;
