@@ -1,0 +1,31 @@
+body{
+  background-image:url("http://www.astronomy.com/~/media/C1739F8C1ED24B7B91C5C04477D07E9F.jpg");
+  background-size: 100% 700px;
+
+
+}
+
+#star {
+  border: none;
+  position: absolute;
+  top:200px;
+  right: 200px;
+}
+
+#star1 {
+  border: none;
+  position: absolute;
+  top: 20px;
+  right: 1200px;
+  height: 100px;
+  width: 100px;
+}
+
+#star2 {
+  border: none;
+  position: absolute;
+  top:400px;
+  right: 800px;
+  height: 70px;
+  width: 70px;
+}
