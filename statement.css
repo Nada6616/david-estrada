@@ -1,3 +1,27 @@
+@import url('https://fonts.googleapis.com/css?family=Press+Start+2P');
+
 body{
 
+}
+div {
+  width: 300px;
+  border: 15px solid green;
+  padding: 50px;
+  margin: 20px;
+}
+
+#animation2 {
+  position: fixed;
+  bottom: 350px;
+  right: 650px;
+  border:none;
+  z-index: -999;
+}
+
+#home{
+  position: fixed;
+  bottom: 10px;
+  right: 5px;
+  border: none;
+  height: 50px;
 }

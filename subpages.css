@@ -54,3 +54,53 @@ body{
   height: 70px;
   border: none;
 }
+
+#image1 {
+  position: absolute;
+  bottom: 250px;
+  left: 150px;
+  border: none;
+}
+
+#image2 {
+  position: absolute;
+  bottom: 250px;
+  right: 150px;
+  border: none;
+}
+
+#image3{
+  position: absolute;
+  bottom: -90px;
+  left: 150px;
+  border: none;
+}
+
+#image4{
+  position: absolute;
+  bottom: -90px;
+  right: 150px;
+  border: none;
+}
+
+#image5{
+  position: absolute;
+  bottom: -430px;
+  left: 150px;
+  border: none;
+}
+
+#image6{
+  position: absolute;
+  bottom: -430px;
+  right: 150px;
+  border: none;
+}
+
+#sketchlink {
+  position: absolute;
+  bottom: -785px;
+  right: 730px;
+  height: 70px;
+  border: none;
+}
