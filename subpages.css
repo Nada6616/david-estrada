@@ -1,7 +1,56 @@
+@import url('https://fonts.googleapis.com/css?family=Press+Start+2P');
+
 body{
-background-color: silver;
+  font-family: 'Press Start 2P', cursive;
+  font-size: 12px;
+  line-height: 20px;
+  margin:3px;
+  padding:0;
+  background-color: #6fccf7;
 }
 
 #collage {
   height:270px;
+  left: 250px;
+  position: absolute;
+}
+
+#collagegif {
+  height: 270px;
+  left: 800px;
+  position:absolute;
+}
+
+#home{
+  position: fixed;
+  bottom: 10px;
+  right: 5px;
+  border: none;
+  height: 50px;
+}
+
+#watching{
+  position:absolute;
+  top: 165px;
+  left:450px;
+}
+
+#watching2{
+  position: absolute;
+  top: 530px;
+  left: 450px;
+}
+
+#watching3{
+  position: absolute;
+  top: 895px;
+  right: 450px;
+}
+
+#videolink{
+  position: absolute;
+  bottom: -745px;
+  right: 730px;
+  height: 70px;
+  border: none;
 }
