@@ -18,8 +18,22 @@ body {
 
  #navigation {
    position: absolute;
-   top:50px;
-   left:350px;
+   top:5%;
+   left:35%;
+
+ }
+
+ #navigation74 {
+   position: absolute;
+   top:5%;
+   left:15%;
+
+ }
+
+ #navigation75 {
+   position: absolute;
+   top:5%;
+   left:15%;
 
  }
 
@@ -36,6 +50,14 @@ body {
    bottom: 30px;
    left: 30px;
    border: none;
+ }
+
+ #home{
+   position: fixed;
+   bottom: 10px;
+   right: 5px;
+   border: none;
+   height: 50px;
  }
 
 .buttons{

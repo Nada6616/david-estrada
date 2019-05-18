@@ -11,13 +11,13 @@ body{
 
 #collage {
   height:270px;
-  left: 250px;
+  left: 16.5%;
   position: absolute;
 }
 
 #collagegif {
   height: 270px;
-  left: 800px;
+  right: 16.5%;
   position:absolute;
 }
 
@@ -31,26 +31,26 @@ body{
 
 #watching{
   position:absolute;
-  top: 165px;
-  left:450px;
+  top: 22%;
+  left: 29.67%;
 }
 
 #watching2{
   position: absolute;
-  top: 530px;
-  left: 450px;
+  top: 70%;
+  left: 29.67%;
 }
 
 #watching3{
   position: absolute;
-  top: 895px;
-  right: 450px;
+  top: 118%;
+  right: 29.67%;
 }
 
 #videolink{
   position: absolute;
-  bottom: -745px;
-  right: 730px;
+  bottom: -99%;
+  right: 48%;
   height: 70px;
   border: none;
 }
