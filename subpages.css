@@ -9,6 +9,18 @@ body{
   background-color: #6fccf7;
 }
 
+#web1 {
+  position:absolute;
+  top: 22%;
+  left: 29.67%;
+}
+
+#web2 {
+  position: absolute;
+  top: 70%;
+  left: 29.67%;
+}
+
 #collage {
   height:270px;
   left: 16.5%;
@@ -50,6 +62,14 @@ body{
 #videolink{
   position: absolute;
   bottom: -99%;
+  right: 48%;
+  height: 70px;
+  border: none;
+}
+
+#videolinkCI{
+  position: absolute;
+  top: 166%;
   right: 48%;
   height: 70px;
   border: none;
