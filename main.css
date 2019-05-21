@@ -73,12 +73,37 @@ body {
 .buttons a {
   color: white;
   text-decoration: none;
-  font-weight: bold 5px;
+  font-weight: bold;
 }
 
 .buttons a:hover {
   float: left;
   font-size:16pt;
+  list-style-type: none;
+  padding: 5px;
+  margin-right: 15px;
+  background-color:#6fccf7;
+  transition: 0.4s;
+}
+.buttons75{
+  float: left;
+  font-size:12pt;
+  list-style-type: none;
+  background-color:#6fccf7;
+  padding: 20px;
+  margin-right: 15px;
+  border: #221eff 4px outset;
+
+}
+.buttons75 a {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.buttons75 a:hover {
+  float: left;
+  font-size:13pt;
   list-style-type: none;
   padding: 5px;
   margin-right: 15px;

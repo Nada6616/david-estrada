@@ -29,7 +29,7 @@ body{
 
 #collagegif {
   height: 270px;
-  right: 16.5%;
+  right: 3.5%;
   position:absolute;
 }
 
@@ -59,6 +59,48 @@ body{
   right: 29.67%;
 }
 
+#watchingF{
+  position:absolute;
+  top: 22%;
+  left: 29.67%;
+}
+
+#watching2F{
+  position: absolute;
+  top: 75%;
+  left: 29.67%;
+}
+
+#watching3F{
+  position: absolute;
+  top: 128%;
+  right: 29.67%;
+}
+
+#watchingI{
+  position:absolute;
+  top: 22%;
+  left: 29.67%;
+}
+
+#watching2I{
+  position: absolute;
+  top: 75%;
+  left: 29.67%;
+}
+
+#watching3I{
+  position: absolute;
+  top: 128%;
+  right: 29.67%;
+}
+
+#watching4I{
+  position: absolute;
+  top: 181%;
+  right: 29.67%;
+}
+
 #videolink{
   position: absolute;
   bottom: -99%;
@@ -67,9 +109,25 @@ body{
   border: none;
 }
 
+#videolinkI{
+  position: absolute;
+  bottom: -192%;
+  right: 48%;
+  height: 70px;
+  border: none;
+}
+
 #videolinkCI{
   position: absolute;
   top: 166%;
+  right: 48%;
+  height: 70px;
+  border: none;
+}
+
+#videolink3{
+  position: absolute;
+  top: 200%;
   right: 48%;
   height: 70px;
   border: none;
