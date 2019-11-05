@@ -36,7 +36,13 @@ body {
    left:15%;
 
  }
+ 
+  #navigation23 {
+    position: absolute;
+    top:5%;
+    left:15%;
 
+  }
  #animation2 {
    position: fixed;
    bottom: 5px;
